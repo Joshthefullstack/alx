@@ -1,2 +1,7 @@
-# alx-pre_course
-alx courses
+# hello world 
+
+My first repository on GitHub
+
+I love :coffee :pizza, and 💃
+
+# hello GitHub
